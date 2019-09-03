@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Eva1_Calculo</string>
+    <string name="btcuadrados">Cuadrados</string>
+    <string name="btvolverini1">Volver al menu</string>
+    <string name="btcirculos">Circulos</string>
+    <string name="btvolverini2">Volver al Menu</string>
+</resources>
